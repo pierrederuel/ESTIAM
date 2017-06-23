@@ -1,0 +1,10 @@
+{
+  "title": "event-city-api",
+  "source": "./api",
+  "destination": "./docs",
+  "coverage": true,
+  "test": {
+    "type": "mocha",
+    "source": "./test"
+  }
+}
