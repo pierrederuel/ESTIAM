@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventCity</string>
+    <string name="list_cities">Lister les villes</string>
+    <string name="title_activity_cities">Liste des villes</string>
+    <string name="title_activity_city">Détail de la ville</string>
+    <string name="title_activity_events">Liste des évènements</string>
+    <string name="title_activity_event">Evènement</string>
+    <string name="home_welcome">Bienvenue sur EventCity</string>
+</resources>
